@@ -7,3 +7,5 @@
 - https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html
 
 - https://www.youtube.com/watch?v=ieMjGVYw9ag
+
+- https://datascience.stackexchange.com/questions/34061/sklearn-neighbors-nearestneighbors-knn-for-unsupervised-learning
